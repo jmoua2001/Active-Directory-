@@ -20,7 +20,7 @@ Virtualization: (VMware / VirtualBox / Hyper-V)
 
 1. Creating Windows Server as a Domain Controller  
 
-![Promoting server to a domain controller](images/promotion-to-dc-controller.png)
+![Promoting server to a domain controller](../images/promotion-to-dc-controller.png)
 
 
 
