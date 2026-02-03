@@ -31,14 +31,14 @@ Confirmation that domain has been created
 2. Created OUs to separate users and computers by region and function, improving Group Policy targeting and administrative organization. 
 
 In this example, I will be creating only one OU, but if your organization's had users outside of the USA such as Asia or Europe - You would add these as well 
-![Create OU](..images/Creating-USA-OU.png)
+![Create OU](../images/Creating-USA-OU.png)
 
  
 
  
 
 Within the USA OU, I have created a Computer and Users OU.  
-
+![](../images/OU.png)
  
 
 Within Users OU, I have created an IT Security and Distribution list group as well as two users.  
