@@ -25,11 +25,8 @@ Virtualization: (VMware / VirtualBox / Hyper-V)
 
 
 
-
- 
-
 Confirmation that domain has been created 
-
+![Domain Created](../images/Domain Created.png) 
 2. Created OUs to separate users and computers by region and function, improving Group Policy targeting and administrative organization. 
 
 In this example, I will be creating only one OU, but if your organization's had users outside of the USA such as Asia or Europe - You would add these as well 
