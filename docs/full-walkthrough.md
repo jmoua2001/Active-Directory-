@@ -1,6 +1,6 @@
 Active Directory Lab 
 
-##Environment Overview 
+Environment Overview 
 
 Domain Controller: Windows Server 2022  
 Clients: 2× Windows 11 Enterprise  
