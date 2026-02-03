@@ -1,17 +1,12 @@
 Active Directory Lab 
 
-Environment Overview 
+##Environment Overview 
 
 Domain Controller: Windows Server 2022  
-
 Clients: 2× Windows 11 Enterprise  
-
 Firewall: OPNsense  
-
 Network: 10.0.0.0/24 (Internal)  
-
 Domain: quik.local  
-
 Virtualization: (VMware / VirtualBox / Hyper-V) 
 
  
