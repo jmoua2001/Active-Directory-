@@ -2,7 +2,7 @@
 Active Directory lab
 
 ## Overview
-This project demonstrated the deployment and confugration of a Windows Active Directory Environment
+This project demonstrated the deployment and configuration of a Windows Active Directory Environment
 
 ## Technologies Used
 - Windows Server 2022
